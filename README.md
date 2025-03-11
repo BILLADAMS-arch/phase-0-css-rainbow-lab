@@ -92,7 +92,7 @@ Here's an example of CSS styling:
 } /* all elements will have red font */
 ```
 
-## <a id="make-a-rainbow"></a> Make a CSS Rainbow 
+## <a id="make-a-rainbow"></a> Make a CSS Rainbow
 
 In the directory, you'll see three files: `index.html`, `main.css`, and this
 file, `README.md`. Open `index.html`.
@@ -184,7 +184,6 @@ mark its color as red.
 
 ```css
 #red {
-  /* this selects any elements with the red id */
   border-top-color: #f00;
 }
 ```
